@@ -18,9 +18,9 @@ print(tuple(x))
 # This function is to determine if a specified item is present in the new tuple.
 
 if "kiwi" in tuple(x):
-    print("Yes, 'apple' is in the x tuple")
+    print("Yes, 'kiwi' is in the x tuple")
 else:
-    print("No, 'Kiwi' is not in the x tuple")
+    print("No, 'kiwi' is not in the x tuple")
 
 
 
